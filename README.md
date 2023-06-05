@@ -8,7 +8,7 @@ First install all the dependencies
 
 ### Start development server
 
-`npm run start`: visit [http://localhost:5173](http://localhost:5173)
+`npm run dev`: visit [http://localhost:5173](http://localhost:5173)
 
 ### Start static web server
 
