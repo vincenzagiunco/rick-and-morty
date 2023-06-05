@@ -1,5 +1,11 @@
 # rick-and-morty
 
+This is a Vite + React + Redux project.
+
+## Libraries
+
+- [Ant Design](https://ant.design/)
+
 ## Local installation
 
 First install all the dependencies
